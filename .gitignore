@@ -1,0 +1,9 @@
+# Pasta de saida com as imagens geradas
+.vscode/
+output/
+
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

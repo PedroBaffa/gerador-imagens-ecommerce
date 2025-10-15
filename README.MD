@@ -23,7 +23,7 @@ Este projeto é um script em Python que automatiza a criação de imagens de pro
 
 1.  **Clonar o repositório (opcional):**
     ```bash
-    git clone [https://github.com/PedroBaffa/gerador-imagens-ecommerce.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+    git clone [https://github.com/PedroBaffa/gerador-imagens-ecommerce.git](https://github.com/PedroBaffa/gerador-imagens-ecommerce.git)
     cd SEU-REPOSITORIO
     ```
 
